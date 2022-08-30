@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Little Green Men",
+      "likes": 0,
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "id": 9
+    },
+    {
+      "name": "Kelvin Matheka",
+      "likes": 0,
+      "image": "https://www.istockphoto.com/photo/brown-teddy-bear-isolated-in-front-of-a-white-background-gm909772478-250563193",
+      "id": 10
     }
   ]
 }
